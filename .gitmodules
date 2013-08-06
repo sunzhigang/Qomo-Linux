@@ -1,3 +1,6 @@
 [submodule "wallpaper-qomo"]
 	path = wallpaper-qomo
 	url = git@github.com:sunzhigang/wallpaper-qomo.git
+[submodule "qomo-utils"]
+	path = qomo-utils
+	url = git@github.com:sunzhigang/qomo-utils.git
